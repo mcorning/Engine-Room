@@ -1,21 +1,20 @@
 ---
-ref: Michael
 tags:
   - income
 amount: 3000
+ref: Michael SSI
 schedule: 4th_wed
-bank_key: ssa_michael_banked
 as_of: 2026-01-01
 source: SSA
-deposit_to: "[[US Bank]]"
+deposit_to: "[[USBank Checking]]"
 ---
 
 
 ### Amount
-Amount:: $2,882/month
+Amount:: $3000/month
 
 ### Arrival
-Arrival:: 4th Wednesday of each month  
+Arrival: 4th Wednesday of each month  
 
 ### Purpose
 
@@ -33,7 +32,3 @@ Arrival:: 4th Wednesday of each month
 - Monitor Citi access/autopay — fallback: MSFT float or MS cash  
 - SSA deposit is critical for early-month liquidity
 
-### Links
-- [[weekly-review-template]]
-- [[msft-sale-trigger]]
-- [[cushion-tracker]]

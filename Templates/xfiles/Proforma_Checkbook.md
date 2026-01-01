@@ -55,7 +55,7 @@ This version projects **income streams** into the ledger. Supported income schem
 
 
 > [!NOTE] Update current checking balance
->  as of today from [[US Bank]]
+>  as of today from [[USBank Checking]]
 
 ## Next N Days (with running balance)
 

@@ -17,13 +17,11 @@ deposited_to: "[[SSC Checking]]"
 status: deposited
 schedule: 1st_week
 ---
-
-> [!Estimate] Estimated income
-> $60
-
 ## Profit Sharing
 [Sonic Unity Profit Sharing - Google Sheets](https://docs.google.com/spreadsheets/d/10AbzFLSNv2xi6y0r2lSs11OedTE9W36d-bg_qVRzkkQ/edit?gid=0#gid=0)
 
+> [!Estimate] Estimated income
+> $60
 
 ---
 

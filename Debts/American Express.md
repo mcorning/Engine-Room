@@ -16,7 +16,7 @@ note: see account details on USBank Amex
 interest: 23.05
 url: https://global.americanexpress.com/dashboard?intlink=US-Axp-Shop-Consumer-VAC-CardMember\)gin?DestPage=https://www.americanexpress.com/us/credit-cards/?eep=28810&inav=iNavLnkLog
 cycle: monthly
-account: "[[US Bank]]"
+account: "[[USBank Checking]]"
 secured: false
 ---
 [

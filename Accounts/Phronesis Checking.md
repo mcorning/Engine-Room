@@ -10,10 +10,10 @@ ref: Phronesis Checking
 acctType: checking
 ---
 Transfer to:
-[[US Bank]]
+[US Bank Login](https://www.usbank.com/index.html)
 [[Shield-Visa-6529]]: Statement Balance on the 3rd
 
-[[MidOregon]]
+[[Mid Oregon]]
 - F150  $468
 - Subaru $222
 - Visa   $100

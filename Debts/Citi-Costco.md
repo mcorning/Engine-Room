@@ -22,9 +22,11 @@ autopay: true
 apr: 29.49
 url: https://online.citi.com/US/ag/dashboard/credit-card?accountId=ebcfcc7a-370e-4169-a89f-300a7c4e04e3
 interest: 7.77
-account: "[[US Bank]]"
+account: "[[USBank Checking]]"
 secured: false
 ---
+[Citibank Account Dashboard](https://online.citi.com/US/ag/dashboard/credit-card?accountId=183042b4-3fc2-4a93-92c5-91c18a7f0cc5)
+
 - **Debt Type**: Credit card (Citi Costco – 6809)  
     
 - **Status**: Active, AutoPay setup confirmed (starts June 21, 2025)  
@@ -32,7 +34,7 @@ secured: false
 - **Due Date**: 1st and 21st of each month (split payments)  
 
 ---
-[Citibank Account Dashboard](https://online.citi.com/US/ag/dashboard/credit-card?accountId=183042b4-3fc2-4a93-92c5-91c18a7f0cc5)
+
 
 mpcorning
 45792@Mpc

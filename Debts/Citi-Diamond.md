@@ -23,7 +23,7 @@ tags:
 type: card
 url: https://online.citi.com/US/ag/dashboard/credit-card?accountId=ebcfcc7a-370e-4169-a89f-300a7c4e04e3
 interest: 0
-account: "[[US Bank]]"
+account: "[[USBank Checking]]"
 secured: false
 note:
 ---

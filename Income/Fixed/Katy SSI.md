@@ -1,17 +1,17 @@
 ---
-ref: Katy
+ref: Katy SSI
 tags:
   - income
 amount: 1200
 schedule: 2nd_wed
 as_of: 2026-01-01
 source: SSA
-deposit_to: "[[US Bank]]"
+deposit_to: "[[USBank Checking]]"
 bank_key: ssa_katy_banked
 ---
 1
 
-- **mount**: $1,048/month
+- **mount**: $1,200/month
 - **Arrival**: 2nd Wednesday of each month
 - **Purpose**:
     - Dedicated to covering the [[Janus/Engine Room/Debts/Rocket Mortgage]] payment (~$2,677.78)
@@ -24,8 +24,3 @@ bank_key: ssa_katy_banked
 - Katy may use part of this for travel or discretionary if mortgage is already secured
 
 
-## Links
-
-- [Rocket Mortgage](app://obsidian.md/Rocket%20Mortgage)
-- [weekly-review-template](app://obsidian.md/weekly-review-template)
-- [cushion-tracker](app://obsidian.md/cushion-tracker)

@@ -9,3 +9,4 @@ acctType: checking
 balance: 0
 url: https://paypal.com/login
 ---
+[PayPal Login](https://paypal.com/login)

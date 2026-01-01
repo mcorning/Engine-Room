@@ -6,7 +6,7 @@ tags:
   - insurance
   - bill
 alert: "[[Alerts]]"
-account: "[[US Bank]]"
+account: "[[USBank Checking]]"
 cycle: monthly
 as_of: 2025-09-21
 due_days:

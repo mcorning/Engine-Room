@@ -15,13 +15,11 @@ deposited_to: "[[SSC Checking]]"
 status: deposited
 schedule: 1st_week
 ---
-
-> [!NOTE] Estimated Income
-> $160
-
 ## Commissions
 [Nuprime Commissions (SSC-Michael) - Google Sheets](https://docs.google.com/spreadsheets/d/1uibSFdLFm-ExVtUdpT0Jl67nnmny-vzSll_TywNwvQw/edit?gid=848929580#gid=848929580)
 
+> [!NOTE] Estimated Income
+> $160
 
 ---
 

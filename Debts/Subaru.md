@@ -16,11 +16,12 @@ as_of: 2025-09-11
 due_days:
   - "10"
 accounts:
-  - "[[US Bank]]"
-  - "[[MidOregon]]"
+  - "[[USBank Checking]]"
+  - "[[Mid Oregon]]"
 secured: true
 ---
-
+[Mid Oregon Login](https://login.midoregon.com/Authentication?ReturnUrl=DashboardV2
+)
 ![[Pasted image 20250613152923.png]]
     
 

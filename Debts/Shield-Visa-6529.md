@@ -23,5 +23,6 @@ covers:
   - Discretionary Spending
   - TDS
 note: Pay off Statement Balance monthly. Card used for some autopays, mostly for daily expenses.
-account: "[[US Bank]]"
+account: "[[USBank Checking]]"
 ---
+[US Bank Login](https://www.usbank.com/index.html)

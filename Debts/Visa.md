@@ -20,10 +20,10 @@ interest: 61.43
 cycle: monthly
 due_days:
   - "12"
-account: "[[US Bank]]"
+account: "[[USBank Checking]]"
 secured: false
 ---
-[Mid Oregon Credit Union](https://login.midoregon.com/MyAccountsV2?pageID=d36e4f2f-90bb-4fbf-bde6-95d3785234a0#account-533c4a0e-49b2-4945-923a-81315a459099)
+[Mid Oregon Login](https://login.midoregon.com/MyAccountsV2?pageID=d36e4f2f-90bb-4fbf-bde6-95d3785234a0#account-533c4a0e-49b2-4945-923a-81315a459099)
 MidOr Visa card. Must be paid on time to avoid $25 fee.
 
 ![[Pasted image 20250613152821.png]]
