@@ -1,10 +1,10 @@
 ---
 amount: 45
-balance: 880.69
-as_of: 2025-12-29
+balance: 885.68
+as_of: 2026-01-01
 due_days:
   - "22"
-available_credit: 114
+available_credit: 114.32
 autopay: true
 url: https://www.usbank.com/index.html
 cycle: monthly

@@ -1,7 +1,7 @@
 ---
 ref: SSC Checking
-balance: 853.08
-as_of: 2025-12-29
+balance: 798.08
+as_of: 2026-01-01
 url: https://onlinebanking.usbank.com/digital/servicing/shellapp/#/account-dashboard
 tags:
   - account

@@ -1,25 +1,24 @@
 ---
-amount_paid: 1500
-amount_paid_date: 2025-10-02
-balance: 10067.49
-as_of: 2025-12-03
-due_days:
-  - "12"
-  - "23"
+tags:
+  - food
+  - debt
+  - covers
+ref: Citi-Diamond
 due_amounts:
   - "75"
   - "75"
+due_days:
+  - "12"
+  - "23"
+as_of: 2026-01-01
+balance: 10792.86
+available_credit: 707.14
 credit_limit: 11500
 last_credit_score_katy: "764"
 cycle: semi-monthly
 autopay: true
 covers:
   - CEC
-ref: Citi-Diamond
-tags:
-  - food
-  - debt
-  - covers
 type: card
 url: https://online.citi.com/US/ag/dashboard/credit-card?accountId=ebcfcc7a-370e-4169-a89f-300a7c4e04e3
 interest: 0

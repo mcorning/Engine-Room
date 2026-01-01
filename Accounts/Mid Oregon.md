@@ -2,9 +2,9 @@
 tags:
   - account
   - creditUnion
+balance: 87.52
+as_of: 2026-01-01
 ref: Mid Oregon
-balance: 87.51
-as_of: 2025-09-01
 acctType: checking
 url: https://login.midoregon.com/MyAccountsV2?pageID=d36e4f2f-90bb-4fbf-bde6-95d3785234a0#account-2216f33d-47e6-48fd-931c-ee29200e392e
 ---

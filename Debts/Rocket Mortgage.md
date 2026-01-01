@@ -6,7 +6,7 @@ due_amounts:
 due_days:
   - "15"
   - "29"
-as_of: 2025-12-19
+as_of: 2026-01-02
 anchor_date: 2025-12-19
 tags:
   - mortgage

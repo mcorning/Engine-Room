@@ -1,10 +1,10 @@
 ---
-balance: 2630.61
-as_of: 2025-12-29
+balance: 2875.64
+as_of: 2026-01-01
 due_days:
   - "3"
-amount: 100
-available_credit: 13000
+amount: 200
+available_credit: 10057.36
 secured: false
 interest: 0
 url: https://www.usbank.com/index.html

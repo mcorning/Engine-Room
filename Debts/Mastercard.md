@@ -1,9 +1,9 @@
 ---
 ref: Mastercard
 balance: 3756.34
-amount: 75.12
+as_of: 2026-01-01
+amount: 100
 available_credit: 8743
-as_of: 2025-12-29
 tags:
   - debt
   - creditCard

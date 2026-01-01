@@ -1,6 +1,6 @@
 ---
 balance: 100
-as_of: 2025-10-10
+as_of: 2026-01-01
 url: https://onlinebanking.usbank.com/digital/servicing/shellapp/#/account-dashboard
 tags:
   - account

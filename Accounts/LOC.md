@@ -1,6 +1,6 @@
 ---
-balance: 1355.38
-as_of: 2025-12-29
+balance: 151.99
+as_of: 2026-01-01
 url: https://onlinebanking.usbank.com/digital/servicing/shellapp/#/account-dashboard
 tags:
   - loan
@@ -20,6 +20,7 @@ due_days:
   - "9"
 secured: false
 ---
+The balance field is actually available credit.
 [US Bank Login](https://www.usbank.com/index.html)
 
 USBank Personal Line of Credit

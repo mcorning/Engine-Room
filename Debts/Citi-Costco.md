@@ -1,25 +1,24 @@
 ---
-amount_paid: 1500
-amount_paid_date: 2025-10-02
-balance: 1715.53
-as_of: 2025-12-03
+tags:
+  - food
+  - debt
+  - creditCard
 due_days:
   - "1"
   - "21"
 due_amounts:
   - "50"
   - "50"
-credit_limit: 13000
-last_credit_score_michael: "758"
+as_of: 2026-01-01
+balance: 2864.55
+available_credit: 8185.45
+credit_limit: 11050
+last_credit_score_michael: "732"
 ref: Citi-Costco
-tags:
-  - food
-  - debt
-  - creditCard
 type: card
 cycle: semi-monthly
 autopay: true
-apr: 29.49
+apr: 28.74
 url: https://online.citi.com/US/ag/dashboard/credit-card?accountId=ebcfcc7a-370e-4169-a89f-300a7c4e04e3
 interest: 7.77
 account: "[[USBank Checking]]"
