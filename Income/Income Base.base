@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.tags.contains("income")
+        - file.tags.contains("fixed-income")
+    order:
+      - file.name
+      - amount
+      - as_of
+    sort:
+      - property: as_of
+        direction: DESC
+    columnSize:
+      file.name: 119
+      note.amount: 121

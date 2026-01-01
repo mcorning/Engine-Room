@@ -1,0 +1,27 @@
+formulas:
+  test: due_days.length * amount
+properties:
+  formula.test:
+    displayName: monthly amount
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.tags.contains("debt")
+        - file.tags.contains("mortgage")
+        - file.tags.contains("loan")
+    order:
+      - file.name
+      - due_days
+      - formula.test
+      - due_amounts
+      - balance
+      - file.tags
+    sort:
+      - property: due_days
+        direction: ASC
+      - property: formula.monthly_amount
+        direction: DESC
+    columnSize:
+      note.amount: 88
