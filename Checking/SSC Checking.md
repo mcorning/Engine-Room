@@ -10,12 +10,12 @@ acctType: checking
 ---
 Transfer to:
 [US Bank Login](https://www.usbank.com/index.html)
-[[Shield-Visa-6529]]: Statement Balance on the 3rd
+[[Shield-Visa]]: Statement Balance on the 3rd
 
-[[Mid Oregon]]
+[[Engine Room/Checking/Mid Oregon]]
 - F150  $468
 - Subaru $222
 - Visa   $100
 
-[[First Tech]]
+[[Engine Room/Checking/First Tech]]
 Mastercard  $85

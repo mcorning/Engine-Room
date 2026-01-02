@@ -1,19 +1,19 @@
 ---
 ref: CEC
-amount: 180
 tags:
   - utilities
   - bill
+amount: 180
+covered: true
+account: "[[Shield-Visa]]"
 acct_nr: "5400850104"
 password: 45792.Mpc.1
 email: mcorning@outlook.com
 autopay: true
-account: "[[Shield-Visa-6529]]"
 cycle: monthly
 as_of: 2025-09-11
 due_days:
   - "11"
-covered: true
 ---
 
 

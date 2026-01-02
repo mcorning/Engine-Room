@@ -1,4 +1,5 @@
 ---
+ref: Citi-Costco
 tags:
   - food
   - debt
@@ -14,14 +15,13 @@ balance: 2864.55
 available_credit: 8185.45
 credit_limit: 11050
 last_credit_score_michael: "732"
-ref: Citi-Costco
 type: card
 cycle: semi-monthly
 autopay: true
 apr: 28.74
 url: https://online.citi.com/US/ag/dashboard/credit-card?accountId=ebcfcc7a-370e-4169-a89f-300a7c4e04e3
 interest: 7.77
-account: "[[USBank Checking]]"
+account: "[[Engine Room/Checking/USBank Checking]]"
 secured: false
 ---
 [Citibank Account Dashboard](https://online.citi.com/US/ag/dashboard/credit-card?accountId=183042b4-3fc2-4a93-92c5-91c18a7f0cc5)

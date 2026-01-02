@@ -3,9 +3,9 @@ tags:
   - account
   - channel
   - injection
-ref: Stripe
-as_of: 2025-09-01
-acctType: checking
 balance: 0
+as_of: 2025-09-01
+ref: Stripe
+acctType: checking
 ---
 [Home – Phronesis Project – Stripe](https://dashboard.stripe.com/acct_1RmkRpDHO2kFGeiz/dashboard)

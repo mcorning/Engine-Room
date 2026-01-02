@@ -1,4 +1,9 @@
 ---
+ref: SSC-Visa
+tags:
+  - debt
+  - usbank
+  - covers
 amount: 45
 balance: 885.68
 as_of: 2026-01-01
@@ -8,11 +13,6 @@ available_credit: 114.32
 autopay: true
 url: https://www.usbank.com/index.html
 cycle: monthly
-ref: Visa
-tags:
-  - debt
-  - usbank
-  - covers
 priority: must-pay
 type: card
 alert:

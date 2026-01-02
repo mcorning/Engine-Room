@@ -1,13 +1,12 @@
 ---
 ref: TDS
 tags:
-  - insurance
   - bill
 type: bill
 covered: true
+account: "[[Shield-Visa]]"
 alert:
 autopay: true
-account: "[[Shield-Visa-6529]]"
 cycle: monthly
 as_of: 2025-09-01
 due_days:

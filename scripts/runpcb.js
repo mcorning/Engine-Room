@@ -1,6 +1,6 @@
 /**
  * Engine Room/scripts/runpcb.js
- * Build 3/4 entry point: compose incomes/accounts/pcb markdown.
+ * Build 3/4 entry point: compose incomes/checking/pcb markdown.
  */
 
 const path = require("path");

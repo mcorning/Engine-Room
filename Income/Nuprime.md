@@ -5,13 +5,13 @@ tags:
 amount: 370
 date_billed: 2025-12-01
 date_of_deposit: 2025-12-02
-deposit_to: "[[SSC Checking]]"
+deposit_to: "[[Engine Room/Checking/SSC Checking]]"
 source: NP
 alert:
 todo: reconcile unpaid PCBs
 receivable: 0
 as_of: 2025-10-30
-deposited_to: "[[SSC Checking]]"
+deposited_to: "[[Engine Room/Checking/SSC Checking]]"
 status: deposited
 schedule: 1st_week
 ---

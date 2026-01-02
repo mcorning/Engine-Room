@@ -6,7 +6,7 @@ ref: Michael SSI
 schedule: 4th_wed
 as_of: 2026-01-01
 source: SSA
-deposit_to: "[[USBank Checking]]"
+deposit_to: "[[Engine Room/Checking/USBank Checking]]"
 ---
 
 

@@ -6,7 +6,7 @@ amount: 1200
 schedule: 2nd_wed
 as_of: 2026-01-01
 source: SSA
-deposit_to: "[[USBank Checking]]"
+deposit_to: "[[Engine Room/Checking/USBank Checking]]"
 bank_key: ssa_katy_banked
 ---
 1
@@ -15,7 +15,7 @@ bank_key: ssa_katy_banked
 - **Arrival**: 2nd Wednesday of each month
 - **Purpose**:
     - Dedicated to covering the [[Janus/Engine Room/Debts/Rocket Mortgage]] payment (~$2,677.78)
-    - Combined with checking reserves and [[LOC]] to fully pay by ~14th
+    - Combined with checking reserves and [[Engine Room/Checking/LOC]] to fully pay by ~14th
 
 ## Notes
 

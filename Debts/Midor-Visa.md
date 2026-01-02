@@ -1,5 +1,5 @@
 ---
-ref: Visa
+ref: MidOr-Visa
 tags:
   - debt
   - creditCard
@@ -21,7 +21,7 @@ interest: 61.43
 cycle: monthly
 due_days:
   - "12"
-account: "[[USBank Checking]]"
+account: "[[Engine Room/Checking/USBank Checking]]"
 secured: false
 ---
 [Mid Oregon Login](https://login.midoregon.com/MyAccountsV2?pageID=d36e4f2f-90bb-4fbf-bde6-95d3785234a0#account-533c4a0e-49b2-4945-923a-81315a459099)

@@ -5,12 +5,12 @@ tags:
 date_of_deposit:
 source: SSC Service
 amount: 0
-deposit_to: "[[SSC Checking]]"
+deposit_to: "[[Engine Room/Checking/SSC Checking]]"
 alert:
 todo: reconcile unpaid PCBs
 note: only Sep income was $150 warranty labor, paid by NP.
 as_of: 2025-09-30
-deposited_to: "[[SSC Checking]]"
+deposited_to: "[[Engine Room/Checking/SSC Checking]]"
 status: deposited
 schedule:
 ---

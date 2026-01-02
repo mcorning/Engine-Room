@@ -1,5 +1,5 @@
 ---
-ref: Mastercard
+ref: 1stTech-Mastercard
 balance: 3756.34
 as_of: 2026-01-01
 amount: 100
@@ -22,7 +22,7 @@ cycle: monthly
 due_days:
   - "12"
 accounts:
-  - "[[First Tech]]"
+  - "[[Engine Room/Checking/First Tech]]"
 secured: false
 ---
 [First Tech Login](https://banking.firsttechfed.com/MyAccountsV2?pageID=d2672e94-4339-46c2-a56d-7762c4cbc357#account-852cc690-bfdd-4b95-9bce-790aa4c8e890)

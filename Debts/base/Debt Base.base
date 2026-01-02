@@ -24,4 +24,4 @@ views:
       - property: formula.monthly_amount
         direction: DESC
     columnSize:
-      note.amount: 88
+      note.ref: 150

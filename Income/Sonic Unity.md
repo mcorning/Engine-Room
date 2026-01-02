@@ -5,7 +5,7 @@ tags:
 amount: 211.03
 date_billed: 2025-12-01
 date_of_deposit: 2025-12-02
-deposit_to: "[[SSC Checking]]"
+deposit_to: "[[Engine Room/Checking/SSC Checking]]"
 source: SU Profit Sharing
 alert:
 todo:
@@ -13,7 +13,7 @@ yield: 9
 sales:
 as_of: 2025-09-30
 note: which account gets deposit?
-deposited_to: "[[SSC Checking]]"
+deposited_to: "[[Engine Room/Checking/SSC Checking]]"
 status: deposited
 schedule: 1st_week
 ---

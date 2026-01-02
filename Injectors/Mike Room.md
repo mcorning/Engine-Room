@@ -3,7 +3,7 @@ tags:
   - injector
   - single
   - first
-amount: 500
+balance: 500
 cycle: monthly
 ref: Mike Room
 last_received: 2025-09-10
@@ -11,7 +11,7 @@ as_of: 2025-09-10
 due_week: 1
 due_weekday: 3
 source: Cash
-deposit_to: "[[USBank Checking]]"
+deposit_to: "[[Engine Room/Checking/USBank Checking]]"
 status: deposited
 schedule: 1st_week
 date_of_deposit: 2025-10-03

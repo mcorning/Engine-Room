@@ -5,12 +5,8 @@ date: <% tp.file.title %>
 ---
 
 # Daily Note — <% tp.file.title %>
-
-
 - Created: <% tp.date.now("dddd, MMMM D, YYYY") %>
-
 ---
-
 <%*
 
 // Debug toggles (Build 3 requirement)
@@ -18,7 +14,7 @@ const PCB_FLAGS = {
   incomes: true,
   accounts: true,
   pcb: true,          // stub for now; we'll wire real PCB markdown later
-  debug: true,
+  debug: false,
 };
 
 try {

@@ -7,7 +7,7 @@ tags:
   - utilities
 type: bill
 cycle: monthly
-account: "[[USBank Checking]]"
+account: "[[Engine Room/Checking/USBank Checking]]"
 as_of: 2025-09-17
 due_days:
   - "17"

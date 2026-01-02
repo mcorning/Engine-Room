@@ -17,8 +17,8 @@ cycle: monthly
 due_days:
   - "10"
 accounts:
-  - "[[USBank Checking]]"
-  - "[[Mid Oregon]]"
+  - "[[Engine Room/Checking/USBank Checking]]"
+  - "[[Engine Room/Checking/Mid Oregon]]"
 secured: true
 interest_rate: "7.240"
 ---
