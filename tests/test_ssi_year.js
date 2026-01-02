@@ -1,5 +1,5 @@
 // scripts/test_ssi_year.js
-const s = require('../../lib/schedule');
+const s = require('../lib/schedule');
 
 function fmt(d) {
   return d.toISOString().slice(0, 10);

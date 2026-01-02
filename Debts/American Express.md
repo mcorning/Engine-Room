@@ -4,7 +4,7 @@ due_days:
 balance: 3140.98
 as_of: 2025-12-03
 amount: 40
-ref: Amex
+ref: American Express
 tags:
   - food
   - debt
