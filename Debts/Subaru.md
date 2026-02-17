@@ -1,24 +1,21 @@
 ---
-ref: Subaru
 tags:
   - secured
   - loan
-amount: 222
-as_of: 2026-01-01
-current_balance: 9,079.84
-autopay: true
-type: loan
-last_paid: 2025-09-16
-last_payment: 222
+amount: 221.93
+due_days:
+  - "10"
+as_of: 2026-01-27
+current_balance: 8,959.04
 monitor: true
 url: https://login.midoregon.com/Authentication?ReturnUrl=DashboardV2
 paid_by: stock
 cycle: monthly
-due_days:
-  - "10"
+ref: Subaru
 accounts:
   - "[[Engine Room/Checking/USBank Checking]]"
   - "[[Engine Room/Checking/Mid Oregon]]"
+type: loan
 secured: true
 interest_rate: "7.240"
 ---

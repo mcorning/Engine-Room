@@ -10,9 +10,9 @@ due_amounts:
 due_days:
   - "12"
   - "23"
-as_of: 2026-01-01
-balance: 10792.86
-available_credit: 707.14
+as_of: 2026-01-27
+balance: 1020.4
+available_credit: 479.6
 credit_limit: 11500
 last_credit_score_katy: "764"
 cycle: semi-monthly

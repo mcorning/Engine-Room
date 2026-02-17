@@ -3,9 +3,10 @@ tags:
   - account
   - channel
   - injection
-balance: 0
+injector_priority: 30
+balance: 382
 ref: PayPal
-as_of: 2025-09-01
+as_of: 2026-01-30
 acctType: checking
 url: https://paypal.com/login
 ---

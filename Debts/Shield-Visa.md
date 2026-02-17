@@ -4,8 +4,8 @@ tags:
   - debt
   - usbank
   - covers
-balance: 2875.64
-as_of: 2026-01-01
+balance: 3397.93
+as_of: 2026-01-27
 due_days:
   - "3"
 amount: 200

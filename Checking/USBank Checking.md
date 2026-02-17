@@ -1,13 +1,15 @@
 ---
-ref: USBank Checking
-balance: 1840
-as_of: 2026-01-01
-url: https://onlinebanking.usbank.com/digital/servicing/shellapp/#/account-dashboard
 tags:
   - account
   - bank
+ref: USBank Checking
+balance: 1438
+as_of: 2026-02-05
+url: https://www.usbank.com/index.html
 acctType: checking
 ---
+
+
 Transfer to:
 [US Bank Login](https://www.usbank.com/index.html)
 [[Shield-Visa]]: Statement Balance on the 3rd

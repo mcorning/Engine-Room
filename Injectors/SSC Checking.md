@@ -1,14 +1,14 @@
 ---
-ref: SSC Checking
-balance: 798.08
-as_of: 2026-01-01
-url: https://onlinebanking.usbank.com/digital/servicing/shellapp/#/account-dashboard
 tags:
-  - account
-  - bank
+  - injection
+injector_priority: 10
+ref: SSC Checking
+balance: 1181.73
+as_of: 2026-02-05
+url: https://www.usbank.com/index.html
 acctType: checking
 ---
-Transfer to:
+injTransfer to:
 [US Bank Login](https://www.usbank.com/index.html)
 [[Shield-Visa]]: Statement Balance on the 3rd
 

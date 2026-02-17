@@ -2,7 +2,7 @@
 ref: Katy SSI
 tags:
   - income
-amount: 1200
+amount: 1050
 schedule: 2nd_wed
 as_of: 2026-01-01
 source: SSA

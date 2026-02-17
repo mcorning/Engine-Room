@@ -6,9 +6,9 @@ tags:
   - creditCard
 due_days:
   - "10"
-balance: 3140.98
-as_of: 2025-12-03
-amount: 40
+balance: 3487.55
+as_of: 2026-01-27
+amount: 102.1
 type: card
 apr: 22.24
 autopay: true

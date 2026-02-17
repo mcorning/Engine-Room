@@ -1,7 +1,7 @@
 ---
 tags:
   - income
-amount: 3000
+amount: 2950
 ref: Michael SSI
 schedule: 4th_wed
 as_of: 2026-01-01

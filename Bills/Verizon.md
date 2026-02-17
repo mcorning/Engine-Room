@@ -1,13 +1,13 @@
 ---
-amount: 212
-autopay: true
 tags:
   - bill
   - verizon
   - utilities
+amount: 212
+autopay: true
 type: bill
 cycle: monthly
-account: "[[Engine Room/Checking/USBank Checking]]"
+account: "[[USBank Checking]]"
 as_of: 2025-09-17
 due_days:
   - "17"
